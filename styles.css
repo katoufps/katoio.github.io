@@ -1,0 +1,41 @@
+body {
+    background-color: #f0f0f0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.timer-container {
+    margin-top: 20px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+    color: #00C4FF;
+}
+
+button#start-button {
+    height: 58px;
+    width: 200px;
+}
+
+button#reset-button {
+    height: 58px;
+    width: 200px;
+}
+
+button {
+        margin-right: 10px; /* Ajusta o espaçamento entre os botões */
+}
